@@ -41,8 +41,7 @@
 ---
 
 ## 🤝 Connect with Me  
-- 💌 **Email:** vsyaswanth008@gmail.com  
-)  
+- 💌 **Email:** vsyaswanth008@gmail.com   
 - 💼 **LinkedIn:** www.linkedin.com/in/yaswanth-v-cse-aiml
 
 ⭐️ **Fun Fact:** *I'm always inspired by the teamwork and strategy in football, and I channel that into my coding journey!*  
