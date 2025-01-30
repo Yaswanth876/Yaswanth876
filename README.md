@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Aspiring AI/ML Engineer | Problem Solver | Innovator</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </div>
 
 ---
@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Coding Rocket GIF">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Futuristic Tech GIF">
 </div>
 
 ---
