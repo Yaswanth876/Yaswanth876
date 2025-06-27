@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaswanth V</h1>
 <h3 align="center">B.E. CSE (AI & ML) | First Graduate | TCE'28 | Software Intern @ Tarcin Robotics</h3>
 
----
-
-🎯 **Mission**: Uplift my family through tech, freelancing, and purpose-driven engineering.  
-💬 _“He turned every struggle into a stepping stone...”_
 
 ---
 
@@ -21,7 +17,7 @@
 
 - 💼 **Software Intern** – Tarcin Robotic LLP (June 2025)  
 - 🏆 1st Place – Code Lens, TCE Coders Club  
-- 🚀 Finalist – iTech Hackfest (with SAP)  
+- 🚀 Participated – iTech Hackfest (with SAP)  
 - 📜 Certifications – NPTEL, Microsoft Learn, MathWorks  
 - 🧠 [Skillrack Profile](http://www.skillrack.com/profile/513616/27e0aa1d6f9442b3815f72c2d77f52b61f1957de)
 
