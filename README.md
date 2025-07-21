@@ -18,7 +18,7 @@
 - 💼 **Software Intern** – Tarcin Robotic LLP (June 2025)  
 - 🏆 1st Place – Code Lens, TCE Coders Club  
 - 🚀 Participated – iTech Hackfest (with SAP)  
-- 📜 Certifications – NPTEL, Microsoft Learn, MathWorks, Cotsera 
+- 📜 Certifications – NPTEL, Microsoft Learn, MathWorks, Cousera 
 - 🧠 [Skillrack Profile](http://www.skillrack.com/profile/513616/27e0aa1d6f9442b3815f72c2d77f52b61f1957de)
 
 ---
