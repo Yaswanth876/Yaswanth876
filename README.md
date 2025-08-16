@@ -1,5 +1,5 @@
-<h1 align = "center"># Hi 👋, I'm Yaswanth V</h1>  
-<h3>### **AI/ML Enthusiast | Web Developer | First Graduate | TCE'28 | Software Intern @ Tarcin Robotics**</h3>  
+<h1 align="center">Hi 👋, I'm Yaswanth V</h1>  
+<h3 align="center">AI/ML Enthusiast | Web Developer | Programmer | TCE'28</h3> 
 
 ---
 
