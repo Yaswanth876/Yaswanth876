@@ -1,5 +1,5 @@
-# Hi 👋, I'm Yaswanth V  
-### **AI/ML Enthusiast | Web Developer | First Graduate | TCE'28 | Software Intern @ Tarcin Robotics**  
+<h1 align = "center"># Hi 👋, I'm Yaswanth V</h1>  
+<h3>### **AI/ML Enthusiast | Web Developer | First Graduate | TCE'28 | Software Intern @ Tarcin Robotics**</h3>  
 
 ---
 
