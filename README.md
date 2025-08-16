@@ -34,7 +34,7 @@
 
 ## 🏆 **Highlights**  
 
-- 💼 **Software Intern** @ [Tarcin Robotics](https://tarcinrobotics.com/) *(June 2025 - Present)*  
+- 💼 **Software Intern** @ [Tarcin Robotics]([https://tarcinrobotics.com/](https://www.linkedin.com/company/tarcin-robotic-llp/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BwBag1yszTHyE4GGasofhNg%3D%3D)) *(June 2025 - Present)*  
 - 🥇 **1st Place** – *Code Lens* (TCE Coders Club)  
 - 🚀 **Hackathon Participant** – *iTech Hackfest (with SAP)*  
 - 📜 **Certifications** – *NPTEL, Microsoft Learn, MathWorks, Coursera*  
