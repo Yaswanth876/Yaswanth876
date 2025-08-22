@@ -58,4 +58,4 @@
 
 ---
 
-### 🔥 **Coding is an art, and I'm just getting started!**  
+### **Coding is an art, and I'm just getting started!**  
